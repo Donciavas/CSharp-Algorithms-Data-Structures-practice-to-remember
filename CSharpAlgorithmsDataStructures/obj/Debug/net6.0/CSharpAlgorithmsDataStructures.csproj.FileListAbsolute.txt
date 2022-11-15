@@ -1,0 +1,5 @@
+C:\Users\dvitk\OneDrive\Desktop\CSharpAlgorithmsDataStructures\CSharpAlgorithmsDataStructures\obj\Debug\net6.0\CSharpAlgorithmsDataStructures.csproj.AssemblyReference.cache
+C:\Users\dvitk\OneDrive\Desktop\CSharpAlgorithmsDataStructures\CSharpAlgorithmsDataStructures\obj\Debug\net6.0\CSharpAlgorithmsDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Desktop\CSharpAlgorithmsDataStructures\CSharpAlgorithmsDataStructures\obj\Debug\net6.0\CSharpAlgorithmsDataStructures.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Desktop\CSharpAlgorithmsDataStructures\CSharpAlgorithmsDataStructures\obj\Debug\net6.0\CSharpAlgorithmsDataStructures.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Desktop\CSharpAlgorithmsDataStructures\CSharpAlgorithmsDataStructures\obj\Debug\net6.0\CSharpAlgorithmsDataStructures.csproj.CoreCompileInputs.cache
